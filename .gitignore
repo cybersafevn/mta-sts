@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.bundle
+*.gem
+Gemfile.lock
+spec/dest
+spec/*fixtures/**/.jekyll-cache
+vendor/bundle
